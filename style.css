@@ -1,0 +1,109 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.main{
+    position: relative;
+    /* width: 100vw;
+    height: 100vh; */
+}
+.half{
+    background-color: #FFCC34 ;
+    width: 60vw;
+    height: 100vh;
+    position: absolute;
+}
+.half-1{
+    background-color: #E14531;
+    height: 100vh;
+    width: 100vw;
+}
+.top{
+    /* background-color: #9e8683; */
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    width: 749px;
+    height: 109px;
+    left: 386px;
+    top: 271px;
+    font-size: xx-large;
+}
+.container{
+    /* align-items: center; */
+    /* background-color: aqua; */
+    /* width: 5vw;
+    height: 4vh;
+    align-content: center; */
+    margin-top: 47vh;
+    margin-left: 45vw;
+    /* padding: 2%; */
+    padding-left: 34px;
+    padding-top: 20px;
+    width: 7vw;
+    height: 6vh;
+    background: #2064FC;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    font-size:x-large;
+    font-weight: bold;
+}
+
+/****************background image ***************/
+.background{
+    width: 60vw;
+    height: 99.4vh;
+    margin-top: -440px;
+    background-blend-mode: darken;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*     ************         ************                     Line              *******************            ************/
+
+.line{
+position: absolute;
+width: 300px;
+height: 0px;
+left: 795px;
+top: 340px;
+
+border: 3px solid #000000;
+transform: rotate(90deg);
+}
+
+/************************* para main page******************/
+.des{
+    position: absolute;
+    width: 20vw;
+    margin-left: 63vw;
+    margin-top: 28vh
+}
+.des-1{
+    font-weight: 500;
+    font-size:x-large;
+    color: #e8e8e8ec;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
